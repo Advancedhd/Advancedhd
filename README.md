@@ -1,11 +1,11 @@
-### Hi, I'm Håkon 👋
+## Hi, I'm Håkon 👋
 
-## About me!
+### About me!
 Hi, i'm a frontend developer from Norway who enjoys creating responsive and functional websites. 
 I have created quite a few websites by myself, i will link these repos down below if you are interested in viewing them!. 
 
 
-## My Languages and Tools
+### My Languages and Tools
 <div id="badges"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -19,7 +19,7 @@ I have created quite a few websites by myself, i will link these repos down belo
 
 
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/håkon-volden-019054b4/">
