@@ -1,8 +1,13 @@
 ## Hi, I'm Håkon 👋
 
+
 ### About me!
 Hi, i'm a frontend developer from Norway who enjoys creating responsive and functional websites. 
 I have created quite a few websites by myself, i will link these repos down below if you are interested in viewing them!. 
+
+
+
+
 
 
 ### 📫 My Languages and Tools
@@ -34,12 +39,25 @@ I have created quite a few websites by myself, i will link these repos down belo
 </div>
 
 
+
+
+
+
 ### My projects! :wrench: More Coming!!
 [Nordic Shoe Store](https://github.com/Advancedhd/nordic-shoe-store)<br/>
 [Non Named Project](https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-Advancedhd)
 
+
+
+
+
+
 ### 🔭 I’m currently working on:
 A new Portfolio website!
+
+
+
+
 
 
 ### 💬 How to reach me:
@@ -50,6 +68,11 @@ A new Portfolio website!
   </a>
     <h5> Discord: AdvancedHD#1548</h5>
 </div>
+
+
+
+
+
 
 ### ⚡ My Stats:
 <img align="left" alt="Advancedhd's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advancedhd&theme=dark" />
