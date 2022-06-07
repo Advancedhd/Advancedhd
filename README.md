@@ -35,7 +35,7 @@ I have created quite a few websites by myself, i will link these repos down belo
 
 
 ### My projects!
-[Nordic Shoe Store](https://github.com/Advancedhd/nordic-shoe-store) </ br>
+[Nordic Shoe Store](https://github.com/Advancedhd/nordic-shoe-store)<br/>
 [Non Named Project](https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-Advancedhd)
 
 
