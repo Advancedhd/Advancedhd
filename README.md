@@ -34,7 +34,7 @@ I have created quite a few websites by myself, i will link these repos down belo
 </div>
 
 
-### My projects!
+### My projects! :wrench: More Coming!!
 [Nordic Shoe Store](https://github.com/Advancedhd/nordic-shoe-store)<br/>
 [Non Named Project](https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-Advancedhd)
 
