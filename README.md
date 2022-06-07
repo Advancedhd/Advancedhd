@@ -4,12 +4,8 @@
 ### About me!
 Hi, i'm a frontend developer from Norway who enjoys creating responsive and functional websites. 
 I have created quite a few websites by myself, i will link these repos down below if you are interested in viewing them!. 
-
-
-
-
-
-
+<br/>
+<br/>
 ### 📫 My Languages and Tools
 <div id="badges"> 
   <a href="https://www.w3schools.com/html/html_intro.asp" target=”_blank”>
@@ -37,8 +33,8 @@ I have created quite a few websites by myself, i will link these repos down belo
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   </a>
 </div>
-
-
+<br/>
+<br/>
 
 
 
@@ -46,16 +42,16 @@ I have created quite a few websites by myself, i will link these repos down belo
 ### My projects! :wrench: More Coming!!
 [Nordic Shoe Store](https://github.com/Advancedhd/nordic-shoe-store)<br/>
 [Non Named Project](https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-Advancedhd)
-
-
+<br/>
+<br/>
 
 
 
 
 ### 🔭 I’m currently working on:
 A new Portfolio website!
-
-
+<br/>
+<br/>
 
 
 
@@ -68,8 +64,8 @@ A new Portfolio website!
   </a>
     <h5> Discord: AdvancedHD#1548</h5>
 </div>
-
-
+<br/>
+<br/>
 
 
 
