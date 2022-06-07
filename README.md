@@ -38,7 +38,8 @@ I have created quite a few websites by myself, i will link these repos down belo
 [Nordic Shoe Store](https://github.com/Advancedhd/nordic-shoe-store)<br/>
 [Non Named Project](https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-Advancedhd)
 
-
+### 🔭 I’m currently working on:
+A new Portfolio website!
 
 
 ### 💬 How to reach me:
