@@ -25,8 +25,7 @@ I have created quite a few websites by myself, i will link these repos down belo
   <a href="https://www.linkedin.com/in/håkon-volden-019054b4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-    <h5>AdvancedHD#1548</h5>
+    <h5> Discord: AdvancedHD#1548</h5>
 </div>
 
 
