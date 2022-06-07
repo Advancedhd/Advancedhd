@@ -45,6 +45,8 @@ I have created quite a few websites by myself, i will link these repos down belo
 </div>
 
 
+<img align="left" alt="Advancedhd's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advancedhd&theme=dark" />
+
 <!--
 **Advancedhd/Advancedhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
